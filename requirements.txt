@@ -1,1 +1,8 @@
-streamlit pandas numpy altair joblib scikit-learn neattext seaborn
+streamlit 
+pandas 
+numpy 
+altair 
+joblib 
+scikit-learn
+neattext 
+seaborn
